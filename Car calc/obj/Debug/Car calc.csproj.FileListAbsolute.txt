@@ -1,0 +1,10 @@
+C:\Users\wabbe\source\repos\Car calc\Car calc\bin\Debug\Car calc.exe.config
+C:\Users\wabbe\source\repos\Car calc\Car calc\bin\Debug\Car calc.exe
+C:\Users\wabbe\source\repos\Car calc\Car calc\bin\Debug\Car calc.pdb
+C:\Users\wabbe\source\repos\Car calc\Car calc\obj\Debug\Car calc.csprojAssemblyReference.cache
+C:\Users\wabbe\source\repos\Car calc\Car calc\obj\Debug\Car_calc.Form1.resources
+C:\Users\wabbe\source\repos\Car calc\Car calc\obj\Debug\Car_calc.Properties.Resources.resources
+C:\Users\wabbe\source\repos\Car calc\Car calc\obj\Debug\Car calc.csproj.GenerateResource.cache
+C:\Users\wabbe\source\repos\Car calc\Car calc\obj\Debug\Car calc.csproj.CoreCompileInputs.cache
+C:\Users\wabbe\source\repos\Car calc\Car calc\obj\Debug\Car calc.exe
+C:\Users\wabbe\source\repos\Car calc\Car calc\obj\Debug\Car calc.pdb
